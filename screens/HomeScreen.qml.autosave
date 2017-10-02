@@ -1,0 +1,11 @@
+import QtQuick 2.0
+
+import "../themes"
+Item {
+    id: root
+    
+    width: AppTheme.screenWidthSize
+    height: AppTheme.screenHeightSize
+    
+    
+}

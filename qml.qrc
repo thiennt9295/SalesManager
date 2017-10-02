@@ -4,5 +4,6 @@
         <file>qtquickcontrols2.conf</file>
         <file>themes/AppTheme.qml</file>
         <file>scripts/branding.js</file>
+        <file>screens/HomeScreen.qml</file>
     </qresource>
 </RCC>
